@@ -17,7 +17,7 @@
   "dependencies": {
     "binary-parser": "^1.1.4",
     "bl": "^0.9.4",
-    "concentrate": "^0.2.3",
+    "concentrate": "0.1.1",
     "msgpack": "^0.2.4",
     "readable-stream": "^1.0.33",
     "underscore": "^1.7.0",
